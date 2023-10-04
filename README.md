@@ -1,5 +1,5 @@
 
-#T-Shirt Price Calculator
+# T-Shirt Price Calculator
 
 The T-Shirt Price Calculator is a project that allows users to calculate the price of a t-shirt based on various factors such as color, quality, and quantity. The calculator aims to provide an accurate estimation by considering these different parameters.
 
